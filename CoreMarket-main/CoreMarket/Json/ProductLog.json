@@ -1,0 +1,42 @@
+[
+  {
+    "Action": "Add",
+    "ProductName": "deneme2",
+    "Count": 2,
+    "BoughtPrice": 2.0,
+    "SoldPrice": 0.0,
+    "DateTime": "2023-12-23T12:08:41.2207402+03:00"
+  },
+  {
+    "Action": "Add",
+    "ProductName": "deneme12",
+    "Count": 12,
+    "BoughtPrice": 12.0,
+    "SoldPrice": 0.0,
+    "DateTime": "2023-12-24T21:58:49.9174872+03:00"
+  },
+  {
+    "Action": "Sell",
+    "ProductName": "Çikolata",
+    "Count": 99,
+    "BoughtPrice": 4.50,
+    "SoldPrice": 5.99,
+    "DateTime": "2024-01-02T20:55:05.8936027+03:00"
+  },
+  {
+    "Action": "Add",
+    "ProductName": "Süt",
+    "Count": 10,
+    "BoughtPrice": 25.0,
+    "SoldPrice": 35.0,
+    "DateTime": "2024-01-03T19:23:48.6330819+03:00"
+  },
+  {
+    "Action": "Add",
+    "ProductName": "Ekmek",
+    "Count": 20,
+    "BoughtPrice": 550.0,
+    "SoldPrice": 850.0,
+    "DateTime": "2024-01-03T19:25:11.8768593+03:00"
+  }
+]

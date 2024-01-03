@@ -1,0 +1,48 @@
+﻿.urunEkle {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+
+.urunEkle h2 {
+    text-align: center;
+    font-size: 1.8em;
+    margin-bottom: 20px;
+
+}
+
+
+.urunEkle label {
+    display: block;
+    margin-bottom: 5px;
+
+    }
+
+
+.urunEkle input[type="text"],
+.urunEkle input[type="number"] {
+    width: calc(100% - 12px);
+    padding: 6px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px
+
+}
+
+
+.urunEkle button {
+    padding: 8px 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.urunEkle button:hover {
+    background-color: #0056b3;
+}

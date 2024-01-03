@@ -1,0 +1,21 @@
+﻿
+
+.product-log-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f7f7f7;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.product-log-title {
+    color: #333;
+}
+
+.product-log-content {
+    margin-top: 15px;
+    font-size: 16px;
+    line-height: 1.6;
+    color: #555;
+}

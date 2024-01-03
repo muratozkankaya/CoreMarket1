@@ -1,0 +1,31 @@
+﻿body {
+    background-color: #f8f9fa;
+}
+
+.containerSellProduct {
+    max-width: 600px;
+}
+
+.cardSellProduct {
+    border: 1px solid #dee2e6;
+    border-radius: 0.25rem;
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+}
+
+.card-title {
+    color: #007bff;
+}
+
+.btn-primarySellProduct {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+    .btn-primarySellProduct:hover {
+        background-color: #0056b3;
+        border-color: #0056b3;
+    }
+
+.text-success {
+    color: #28a745;
+}

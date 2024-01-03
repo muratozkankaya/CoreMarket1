@@ -1,0 +1,31 @@
+﻿.containerProductList {
+    max-width: 1200px;
+    margin: 20px auto;
+}
+
+.section-titleProductList {
+    color: #000080;
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.product-item {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 30px;
+    width: 100%;
+}
+
+.product-title {
+    margin-top: 0;
+    color: #000080;
+    font-size: 32px;
+    font-family: 'Arial', sans-serif;
+}
+
+.product-info {
+    margin-bottom: 15px;
+    color: #333;
+    font-size: 20px;
+    font-family: 'Times New Roman', serif;
+}
